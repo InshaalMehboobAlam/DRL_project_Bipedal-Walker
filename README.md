@@ -132,3 +132,9 @@ The experiments showed:
 - the effect of environment normalization
 - the challenges of continuous control
 - the impact of reward design in reinforcement learning
+
+## Final Agent Performance Video
+
+Click below to watch the final trained PPO agent performance:
+
+[Watch Final PPO Walking Video](https://drive.google.com/file/d/1F9BgRXSepHq86CB_M13CREwij2hVEVBG/view?usp=sharing)
